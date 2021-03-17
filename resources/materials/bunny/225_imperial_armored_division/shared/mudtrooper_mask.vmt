@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	$basetexture "bunny/225_imperial_armored_division/shared/mudtrooper_mask_c"
+	$bumpmap "bunny/225_imperial_armored_division/shared/mudtrooper_mask_n"
+	$phong 1
+	"$phongboost"	"1"
+
+
+	$envmapfresnel 1
+	$blendTintByBaseAlpha 1
+	
+
+}
